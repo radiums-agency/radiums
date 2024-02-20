@@ -4,7 +4,7 @@
 <button class="cta">
 	<span class="container">
 
-		<span> Contact </span>
+		<slot><span> Contact </span></slot>
 	</span>
 </button>
 
