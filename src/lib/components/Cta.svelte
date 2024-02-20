@@ -29,7 +29,7 @@
 	<p>vous avez un projet ?</p>
 	<div class="line"></div>
 	<div class="btn-container" >
-		<a href="mailto:zyousouf70@gmail.com" >
+		<a href="mailto:radiumsagency@gmail.com" >
        discutons-en 
       </a>
 	</div>

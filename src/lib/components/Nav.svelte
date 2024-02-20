@@ -306,7 +306,7 @@
 	}
 
 	@media (width < 750px) {
-		nav ul {
+		nav .main-nav  {
 			display: none;
 		}
 	}
