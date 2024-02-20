@@ -27,7 +27,7 @@
 		</a>
 	</div>
 
-	<ul>
+	<ul class="main-nav">
 		<li>
 			<a href="#services" id="servicesBtn" on:click={() => {}}> Services </a>
 		</li>
@@ -233,14 +233,14 @@
 		backdrop-filter: blur(5px);
 	}
 
-	nav ul {
+	nav .main-nav {
 		display: flex;
 		/* gap: 20px; */
 		/* padding-inline: 5px; */
 		border-radius: 100vw;
 	}
 
-	nav li a {
+	nav .main-nav a {
 		padding: 10px 1rem;
 		border-radius: 100vw;
 		font-weight: 500;
